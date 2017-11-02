@@ -2,7 +2,7 @@
 
 No custom hardware is needed anymore since the i2c-tiny-usb firmware has been [ported to the digispark](https://github.com/harbaum/I2C-Tiny-USB/tree/master/digispark).
 
-## Introduction1111
+## Introduction
 
 Attach any I2C client chip (thermo sensors, AD converter, displays, relais driver, ...) to your PC via USB ... quick, easy and cheap! Drivers for Linux, Windows and MacOS available.
 
